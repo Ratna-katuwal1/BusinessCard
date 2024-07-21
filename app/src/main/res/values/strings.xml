@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="ratna_katuwal">Ratna Katuwal</string>
+    <string name="edit">Edit</string>
+    <string name="student_bca">Student(BCA)</string>
+    <string name="gothatar_kathmandu">Gothatar, Kathmandu</string>
+    <string name="email">parbesh456@gmail.com</string>
+    <string name="phone">+977-9767584680</string>
+    <string name="parbesh121">parbesh121</string>
+    <string name="fbname">Ratna Katuwal</string>
+    <string name="linkdienid">Ratna Katuwal</string>
+    <string name="submit">Submit</string>
+</resources>
